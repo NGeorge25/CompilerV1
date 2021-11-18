@@ -1,0 +1,1 @@
+words = {"for": ["for","VAR", "in", "VAR"]}
